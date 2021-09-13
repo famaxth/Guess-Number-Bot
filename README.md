@@ -9,6 +9,6 @@ I wrote a telegram bot that comes up with numbers. Can you guess them?
 ## How to use
 * [Download Telegram](https://desktop.telegram.org/)
 * Install the script
-* Edit `BOT_TOKEN` in file config.py 
+* Edit `BOT_TOKEN` in file `.env` 
 * Launch the bot!
 
